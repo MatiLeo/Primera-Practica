@@ -1,5 +1,6 @@
 // Este es un ejemplo para el repositorio
-FUNCION getUser.id (id :entero):string
+
+funcion getUser.id (id :entero):string
 
 
 code line 1
@@ -8,6 +9,7 @@ code line 2
 
 code line 3
 
+code line 4
 
 
-Fin FUNCION
+Fin funcion
